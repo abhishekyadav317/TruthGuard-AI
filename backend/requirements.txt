@@ -5,7 +5,7 @@ numpy
 scikit-learn
 opencv-python
 deepface
-tensorflow
+tensorflow==2.15.0
 python-multipart
 reportlab
 requests
